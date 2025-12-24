@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+// This is a simple hello world program
+
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
